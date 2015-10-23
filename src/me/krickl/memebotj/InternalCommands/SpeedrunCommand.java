@@ -36,6 +36,7 @@ public class SpeedrunCommand extends CommandHandler {
         this.listContent().add("WR is sub 5 by {runner}");
         this.listContent().add("WR is 5 antlers by {runner}");
         this.listContent().add("WR is 2 Gigabytes of porn by {runner}");
+        this.listContent().add("WR is 48 hours of masterbation by {runner}");
 
 
         this.runnerList.add("zfg1");
@@ -52,6 +53,7 @@ public class SpeedrunCommand extends CommandHandler {
         this.runnerList.add("Kiwikiller");
         this.runnerList.add("Aaron Stevens");
         this.runnerList.add("Delightfulmoose");
+        this.runnerList.add("Fezehim");
         this.runnerList.add("Major Ass");
 	}
 
