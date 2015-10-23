@@ -53,7 +53,6 @@ public class SpeedrunCommand extends CommandHandler {
         this.runnerList.add("Kiwikiller");
         this.runnerList.add("Aaron Stevens");
         this.runnerList.add("Delightfulmoose");
-        this.runnerList.add("Fezehim");
         this.runnerList.add("Major Ass");
 	}
 
